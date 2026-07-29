@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+exam.db
+.venv/
+venv/
+static/uploads/questions/*
+!static/uploads/questions/.gitkeep
